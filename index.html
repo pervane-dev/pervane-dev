@@ -5,32 +5,110 @@
   <title>Pervane Portfolio</title>
   <style>
     body {
+      margin: 0;
       font-family: Arial;
-      background: #0f172a;
+      background: linear-gradient(to right, #0f172a, #020617);
       color: white;
+    }
+
+    header {
+      padding: 80px;
       text-align: center;
-      padding: 50px;
     }
-    h1 {
-      font-size: 40px;
+
+    header h1 {
+      font-size: 45px;
     }
-    .btn {
-      background: #22c55e;
+
+    header p {
+      opacity: 0.7;
+    }
+
+    section {
+      padding: 60px;
+      text-align: center;
+    }
+
+    .projects {
+      display: flex;
+      justify-content: center;
+      gap: 25px;
+      flex-wrap: wrap;
+    }
+
+    .card {
+      background: #1e293b;
+      padding: 25px;
+      border-radius: 15px;
+      width: 260px;
+      transition: 0.3s;
+    }
+
+    .card:hover {
+      transform: scale(1.05);
+    }
+
+    button {
+      margin-top: 10px;
       padding: 10px 20px;
-      color: black;
+      background: #22c55e;
       border: none;
       cursor: pointer;
-      margin-top: 20px;
+      border-radius: 5px;
+    }
+
+    footer {
+      padding: 30px;
+      text-align: center;
+      opacity: 0.6;
     }
   </style>
 </head>
 <body>
 
+<header>
   <h1>Salam, mən Pervaneyəm 👋</h1>
-  <p>Frontend Developer (React)</p>
-  <p>Modern və responsive saytlar hazırlayıram</p>
+  <p>Frontend Developer | React</p>
+</header>
 
-  <button class="btn">Mənimlə əlaqə</button>
+<section>
+  <h2>Haqqımda</h2>
+  <p>Mən modern və responsive web saytlar hazırlayıram. Freelancer kimi işləməyə hazıram.</p>
+</section>
+
+<section>
+  <h2>Layihələrim</h2>
+  <div class="projects">
+
+    <div class="card">
+      <h3>ToDo App</h3>
+      <p>Task idarəetmə tətbiqi</p>
+      <button onclick="window.open('#')">Bax</button>
+    </div>
+
+    <div class="card">
+      <h3>Weather App</h3>
+      <p>Hava məlumatları tətbiqi</p>
+      <button onclick="window.open('#')">Bax</button>
+    </div>
+
+    <div class="card">
+      <h3>Portfolio Site</h3>
+      <p>Şəxsi portfolio saytım</p>
+      <button onclick="window.open('#')">Bax</button>
+    </div>
+
+  </div>
+</section>
+
+<section>
+  <h2>Əlaqə</h2>
+  <p>Email: seninemail@gmail.com</p>
+</section>
+
+<footer>
+  <p>© 2026 Pervane</p>
+</footer>
 
 </body>
 </html>
