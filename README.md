@@ -1,16 +1,35 @@
-## Hi there 👋
+# Salam, mən Pervaneyəm 👋
 
-<!--
-**pervane-dev/pervane-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Frontend Developer (React)
 
-Here are some ideas to get you started:
+Mən modern və responsive web saytlar hazırlayıram.  
+Freelance və remote işlərə açığam.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+- HTML
+- CSS
+- JavaScript
+- React
+
+---
+
+## 📂 Projects
+
+### 🔹 ToDo App
+Task idarəetmə tətbiqi  
+🔗 Link: (buraya sonra əlavə edəcəyik)
+
+### 🔹 Weather App
+API ilə hava məlumatları göstərir  
+🔗 Link: (sonra əlavə edəcəyik)
+
+### 🔹 Portfolio Website
+Şəxsi portfolio saytım  
+🔗 Link: (GitHub Pages linkini qoyacağıq)
+
+---
+
+## 📫 Əlaqə
+- Email: seninemail@gmail.com
