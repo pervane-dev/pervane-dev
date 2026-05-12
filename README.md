@@ -1,32 +1,39 @@
-# Salam, mən Pervaneyəm 👋
+# Hi, I am Pervane 👋
 
 ## 💻 Frontend Developer (React)
 
-Mən modern və responsive web saytlar hazırlayıram.  
-Freelance və remote işlərə açığam.
+I creat modern, reponsive and user-frriendly web appilacition.
+Open to freelance and remote opportunities.
 
 ---
 
 ## 🚀 Skills
-- HTML
-- CSS
-- JavaScript
-- React
+- **Frontend:** HTML,CSS,JavaScript,React Taillwind CSS
+- **Backend:**Python,SQL
+- **Tools:** Git, GitHub, Figma 
+  
 
 ---
 
-## 📂 Projects
+### 🚀 Featured Projects
 
-### 🔹 ToDo App
-Task idarəetmə tətbiqi  
+- [ToDo App](https://github.com/pervane-dev/todo-app) — Task management application built with React
+- [Weather App](https://github.com/pervane-dev/weather-app) — Real-time weather app using API
+- [Portfolio Website](https://github.com/pervane-dev/pervane-dev) — My personal portfolio
+
+---
+
+### 📫 Get in Touch
+
+- Email: [verdiyevapervane6@gmail.com](mailto:verdiyevapervane6@gmail.com)
+- LinkedIn: [Pervane Verdiyeva](https://www.linkedin.com/in/pervane-verdiyeva)
+- Instagram: [@pervane.dev](https://www.instagram.com/pervane.dev)
+
+---
+
+*Open to new opportunities and collaborations! ✨*
 
 
-### 🔹 Weather App
-API ilə hava məlumatları göstərir  
-
-
-### 🔹 Portfolio Website
-Şəxsi portfolio saytım  
 
 
 ---
