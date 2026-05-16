@@ -2,15 +2,15 @@
 
 ## 💻 Frontend Developer (React)
 
-I creat modern, reponsive and user-frriendly web appilacition.
+I create modern, reponsive and user-frriendly web applacition.
 Open to freelance and remote opportunities.
 
 ---
 
 ## 🚀 Skills
-- **Frontend:** HTML,CSS,JavaScript,React Taillwind CSS
-- **Backend:**Python,SQL
-- **Tools:** Git, GitHub, Figma 
+- Frontend: HTML,CSS,JavaScript,React Taillwind CSS
+- Backend:Python,SQL
+- Tools:Git, GitHub, Figma 
   
 
 ---
@@ -31,12 +31,4 @@ Open to freelance and remote opportunities.
 
 ---
 
-*Open to new opportunities and collaborations! ✨*
-
-
-
-
----
-
-## 📫 Əlaqə
-- Email: verdiyevapervane6gmail.com
+*Open to new opportunities and collaborations! ✨
